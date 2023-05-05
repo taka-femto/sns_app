@@ -37,11 +37,6 @@
         "@first": true
     },
     "workspace": {
-        "@folders": [
-            {
-                "name": "git_tutorial",
-                "path": "/git_tutorial"
-            }
-        ]
+        "@folders": []
     }
 }
